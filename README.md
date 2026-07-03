@@ -1,5 +1,5 @@
 # 💫 About Me:
- Junior Full Stack Developer | Java · Spring Boot · Angular · MySQL Currently seeking opportunities in Barcelona or remote. Check out my projects below
+Full Stack Developer | Java · Spring Boot · Angular · MySQL Currently seeking opportunities in Barcelona or remote. Check out my projects below
 
 
 # 💻 Tech Stack:
